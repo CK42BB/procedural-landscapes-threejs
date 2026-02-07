@@ -1,4 +1,4 @@
-# Procedural Landscapes — Teaching Three.js Skill
+# Procedural Landscapes — Three.js Skill
 
 A Claude Code skill for generating procedural 3D terrain in Three.js, emphasizing **WebGPU with WebGL fallback**.
 
