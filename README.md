@@ -106,6 +106,7 @@ Complex terrain comes from combining noise types:
 ## Series: Teaching Three.js
 
 This skill is part of a series designed for learning and teaching Three.js with Claude Code. Each skill is independent and can be used standalone or combined with others.
+[procedural-landscapes](../procedural-landscapes-threejs/) for terrain, [procedural-grass](../procedural-grass-threejs/) for ground cover, [procedural-clouds](../procedural-clouds-threejs/), [procedural-weather](../procedural-weather-threejs/).
 
 ## License
 
